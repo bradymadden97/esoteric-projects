@@ -10,7 +10,7 @@ This python script takes a brainfuck file and "minimizes" it, by removing all bu
 The script also reformats the code to 75 characters per line.
 
 #### word-shifter.bf
-This brainfuck program takes an input of two strings of the same length, and shifts the first string one character at a time to match the second string.
+This brainfuck program takes an input of two strings of the same length, and edits the first string one character at a time to match the second string.
 For example:
 ```
 hello world
